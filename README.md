@@ -8,4 +8,4 @@ https://www.youtube.com/watch?v=nfwTiWnE6ZQ
 
 ![example](https://github.com/haydenmcfarland/assets/blob/master/images/kq.gif?raw=true)
 
-[Demo Download](https://github.com/haydenmcfarland/assets/raw/master/downloads/kq.zip)
+[Demo Download (Windows)](https://github.com/haydenmcfarland/assets/raw/master/downloads/kq.zip)
